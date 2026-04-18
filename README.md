@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm K. Sree Kalyani, an Electrical and Computer Engineering student at Sreenidhi Institute Of Science And Technology. I am passionate about electronics, embedded systems, and digital signal processing.
+I'm K. Sree Kalyani, an Electrical and Communication Engineering student at Sreenidhi Institute Of Science And Technology. I am passionate about electronics, embedded systems, and digital signal processing.
 
 **Skills:**
 
