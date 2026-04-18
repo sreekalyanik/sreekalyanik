@@ -13,7 +13,7 @@ I'm K. Sree Kalyani, an Electrical and Communication Engineering student at Sree
   - Bachelor of Science in Electrical and Computer Engineering (Expected Graduation: 202X)
 
 Contact
-- **Email:** sreekalyani.04@gmail.com
+- **Email:** sreekalyani.k@gmail.com
 - **LinkedIn:**
 
       
